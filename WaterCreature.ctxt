@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getWaterSpeed()
+comment0.text=Return\ the\ speed\ (in\ meters\ per\ second)\ at\ which\ this\ WaterCreature\ can\ move\ in\ the\ water.
+numComments=1

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ age
+comment0.target=Kookaburra(java.lang.String,\ int)
+comment0.text=\ Create\ a\ new\ Kookaburra.\r\n\ \ @param\ name\ The\ name\ that\ has\ been\ given\ to\ the\ kookaburra\ by\ its\ owner.\r\n\ \ @param\ age\ How\ old\ the\ kookaburra\ is.\r\n
+comment1.params=
+comment1.target=void\ squawk()
+comment1.text=Makes\ the\ noise\ of\ a\ Kookaburra,\ to\ standard\ out.
+comment2.params=
+comment2.target=java.lang.String\ getFeatherColour()
+comment2.text=\ Returns\ the\ colour\ of\ this\ Kookaburra's\ feathers.\ All\ Kookaburras\ (in\ this\ system)\r\n\ \ will\ be\ brown\ and\ white.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=Returns\ a\ description\ of\ this\ Kookaburra\ object.
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getLandSpeed()
+comment0.text=Return\ the\ speed\ (in\ meters\ per\ second)\ at\ which\ this\ LandCreature\ can\ move\ on\ the\ land.
+numComments=1

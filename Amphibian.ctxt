@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getPreferenceForLandOrWater()
+comment0.text=\ Returns\ "Water"\ or\ "Land",\ to\ describe\ the\ preference\ of\ habitation\ for\ this\ \r\namphibious\ animal.
+numComments=1

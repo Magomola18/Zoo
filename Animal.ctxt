@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ weight\ age
+comment0.target=Animal(java.lang.String,\ int,\ int)
+comment0.text=\ This\ will\ be\ the\ only\ possible\ way\ to\ set\ the\ name,\ initial\ weight\ and\ age\r\n\ \ of\ all\ animals.\r\n\ \ @param\ name\ The\ name\ desired\ for\ the\ instance\ of\ an\ animal\ subclass.\r\n\ \ @param\ weight\ The\ initial\ weight\ of\ the\ instance.\r\n\ \ @param\ age\ The\ current\ age\ of\ the\ animal\ represented\ by\ the\ instance.\r\n
+comment1.params=
+comment1.target=int\ getWeight()
+comment1.text=Returns\ the\ general\ weight\ of\ this\ Animal.
+comment2.params=
+comment2.target=int\ getAge()
+comment2.text=Returns\ the\ current\ age\ of\ this\ Animal.
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=Returns\ the\ name\ of\ this\ Animal,\ useful\ for\ the\ display\ boards\ outside\ the\ cage.
+comment4.params=
+comment4.target=void\ makeNoise()
+comment4.text=Causes\ the\ animal\ to\ make\ its\ noise\ (once).
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=Provides\ a\ default\ description\ of\ the\ animal.\ Subclasses\ should\ override.
+numComments=6

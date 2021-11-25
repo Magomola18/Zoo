@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ weight\ age
+comment0.target=Dolphin(java.lang.String,\ int,\ int)
+comment1.params=otherMammal
+comment1.target=boolean\ feedYoung(Mammal)
+comment1.text=\ Returns\ a\ flag\ signifying\ whether\ this\ Dolphin\ can\ feed\ the\ provided\ mammal.\r\n\ \ Hopefully,\ only\ a\ Dolphin\ will\ be\ provided\ as\ the\ parameter\ value\!\r\n
+comment2.params=
+comment2.target=double\ getWaterSpeed()
+comment2.text=Returns\ a\ number\ signifying\ the\ speed\ at\ which\ dolphins\ can\ travel\ in\ the\ water.
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=Returns\ a\ description\ of\ this\ Dolphin\ object.
+comment4.params=
+comment4.target=void\ makeNoise()
+comment4.text=Attempts\ to\ make\ a\ squeaky-barking\ noise\ for\ a\ dolphin's\ sound.
+numComments=5

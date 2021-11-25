@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=name\ weight\ age
+comment0.target=Mammal(java.lang.String,\ int,\ int)
+comment1.params=otherMammal
+comment1.target=boolean\ feedYoung(Mammal)
+comment1.text=\ All\ mammals\ can\ feed\ their\ young,\ preferably\ their\ own\ type\!\r\n\ \ @param\ otherMammal\ Another\ Mammal,\ preferably\ of\ the\ same\ subclass\ type,\r\n\ \ \ \ \ \ \ \ \ being\ the\ animal\ to\ be\ fed.\r\n\ \ @return\ true\ if\ the\ provided\ parameter\ is\ able\ to\ be\ fed\ (being\ same\ type).\r\n
+numComments=2

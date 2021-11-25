@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ weight\ age
+comment0.target=Lizard(java.lang.String,\ int,\ int)
+comment0.text=\ Create\ a\ new\ Lizard.\r\n\ \ @param\ name\ If\ you\ have\ named\ this\ lizard,\ supply\ its\ name\ here.\r\n\ \ @param\ weight\ How\ heavy\ this\ lizard\ is.\r\n\ \ @param\ age\ How\ old\ the\ lizard\ is.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=Returns\ a\ description\ of\ this\ Lizard\ object.
+comment2.params=
+comment2.target=void\ makeNoise()
+comment2.text=Makes\ a\ funny\ sound.
+comment3.params=
+comment3.target=double\ getLandSpeed()
+comment3.text=Provides\ an\ implementation\ as\ required\ by\ the\ LandCreature\ interface.
+numComments=4
